@@ -134,6 +134,7 @@ dmypy.json
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
+.suo
 *.rsuser
 *.suo
 *.user
