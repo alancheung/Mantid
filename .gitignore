@@ -475,3 +475,6 @@ untracked.config
 untracked*
 APIKeysLocal.cs
 authentication.json
+
+# Really just ignore video files. Don't want to have to download those all the time
+*.mp4
